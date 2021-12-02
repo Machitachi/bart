@@ -19,7 +19,7 @@ p {
   font-size: 20px;
 }
 
-#lousa {
+main {
   background-image: url("../img/lousa.png");
   background-position: center;
   background-attachment: fixed;
